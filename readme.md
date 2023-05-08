@@ -1,4 +1,4 @@
-****** This project is going to help me know ******
+******This project is going to help me know******
 
 How to use the Python interpreter
 How to print text and variables using print
